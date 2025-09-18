@@ -4,14 +4,6 @@
 </div>
 
 <!-- Animated social links with hover effect -->
-<div align="center">
-  <a href="www.linkedin.com/in/jainambagrecha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <!-- Animated view counter -->
-  <img src="https://komarev.com/ghpvc/?username=jainam-b&style=for-the-badge&color=2AF7B4" alt="Profile Views" />
-</div>
 
 <!-- Animated wave separator -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
@@ -50,19 +42,6 @@ I'm a Full Stack Developer passionate about making, breaking, experimenting, dev
     </td>
 </tr>
 </table>
-
-<!-- Animated stats section -->
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jainam-b&theme=radical&hide_border=true" />
-  
-  <!-- Animated graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jainam-b&theme=react-dark&hide_border=true" />
-  
-  <!-- Language stats with animation -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jainam-b&theme=radical" />
-</div>
 
 <!-- Snake animation -->
 <div align="center">
